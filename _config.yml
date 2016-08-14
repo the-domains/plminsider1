@@ -1,14 +1,14 @@
-layout_spectrum: 0.6366595
-typography_spectrum: 0.8255359
+layout_spectrum: 0.08422939
+typography_spectrum: 1
 color:
   saturation: 0.4959766
   lightness: 0.507587
-  brandStrength: 0.06681445
-  rhythmicContrast: 0.6639069
+  brandStrength: 0.9910395
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#FFFFFF'
+    - '#474747'
+    - '#D4D4D4'
+    - '#5C9AD4'
+  rhythmicContrast: 0.6639069
 name: plminsider1
