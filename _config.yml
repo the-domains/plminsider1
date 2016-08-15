@@ -1,26 +1,26 @@
-color:
-  saturation: 0.4959766
-  brandStrength: 0.9910395
-  rhythmicContrast: 0.6639069
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#474747'
-    - '#D4D4D4'
-    - '#5C9AD4'
-  lightness: 0.507587
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.718638
+color:
+  saturation: 0.6935484
+  brandStrength: 0.9910395
+  lightness: 0.8315412
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#5A5A5A'
+    - '#599BD7'
+    - '#CCCCCC'
+  rhythmicContrast: 0.8422939
 layout_spectrum: 0.08422939
-typography_spectrum: 1
 name: plminsider
